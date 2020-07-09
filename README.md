@@ -72,13 +72,13 @@ Volunteered to teach CSEN301 (Data Structures & Algorithms) at the German Univer
 
 Ranked [**2018th**](https://codingcompetitions.withgoogle.com/hashcode/certificate/round/00000000001a006c) worldwide among 10k+ teams and **1st** in the German University in Cairo Hub among 23 teams.
 
-## Uses
+## Uses ⚒️
 
-### Hardware
+### Hardware 💻
 
 ➔ MacBook Pro 13-inch 2017 16gb 1TB
 
-### Software
+### Software 👨‍💻
 
 - VS Code
 - Theme: GitHub Dark
@@ -95,7 +95,7 @@ Ranked [**2018th**](https://codingcompetitions.withgoogle.com/hashcode/certifica
 - Bracket Pair Colorizer
 - Code Spell Checker
 
-### Browser Extensions
+### Browser Extensions 🌐
 
 - Tab Suspender
 - JSON Formatter
@@ -108,7 +108,7 @@ Ranked [**2018th**](https://codingcompetitions.withgoogle.com/hashcode/certifica
 - Wappalyzer
 - Grammarly
 
-### Productivity Tools
+### Productivity Tools ⚡
 
 - Notion
 - FromScratch
