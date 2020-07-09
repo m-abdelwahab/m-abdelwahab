@@ -12,6 +12,8 @@ I'm Mahmoud and I'm a Front-end Engineer obsessed with designing and building ex
 
 **Blog**: https://mahmoud.codes/blog
 
+**Uses**: https://mahmoud.codes/uses
+
 ## Experience 🚀
 
 ➔ **Auth0 Ambassador** [@Auth0](https://auth0.com) _(Jun 2020 - Present)_
