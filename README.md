@@ -4,12 +4,8 @@ I'm Mahmoud and I'm a Front-end Engineer obsessed with designing and building ex
 
 ## Links 🔗
 
-<div style="display:flex; align-items:center">
 
-<img src="./assets/twitter.png" width="16" height="16" style="margin-right:10px"/>
-
-**Twitter:** [@thisismahmoud_](https://twitter.com/thisismahmoud_)
-</div>
+<img src="./assets/twitter.png" width="16" height="16" style="margin-right:10px"/> **Twitter:** [@thisismahmoud_](https://twitter.com/thisismahmoud_)
 
 <div style="display:flex; align-items:center">
 <img src="./assets/globe.png" width="16" height="16" style="margin-right:10px"/>
