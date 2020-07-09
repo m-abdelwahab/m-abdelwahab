@@ -8,25 +8,25 @@ I'm Mahmoud and I'm a Front-end Engineer obsessed with designing and building ex
 
 <img src="./assets/twitter.png" width="16" height="16" style="margin-right:10px"/>
 
-**Twitter** ➔ [@thisismahmoud_](https://twitter.com/thisismahmoud_)
+**Twitter:** [@thisismahmoud_](https://twitter.com/thisismahmoud_)
 </div>
 
 <div style="display:flex; align-items:center">
 <img src="./assets/globe.png" width="16" height="16" style="margin-right:10px"/>
 
-**Website** ➔ https://mahmoud.codes
+**Website:** https://mahmoud.codes
 </div>
 
 <div style="display:flex; align-items:center">
 <img src="./assets/linkedin.png" width="16" height="16" style="margin-right:10px"/>
 
-**LinkedIn** ➔ [m-abdelwahab-dev](https://www.linkedin.com/in/m-abdelwahab-dev/)
+**LinkedIn:** [m-abdelwahab-dev](https://www.linkedin.com/in/m-abdelwahab-dev/)
 </div>
 
 <div style="display:flex; align-items:center">
 <img src="./assets/pen-tool.png" width="16" height="16" style="margin-right:10px"/>
 
-**Blog** ➔ https://mahmoud.codes/blog
+**Blog**: https://mahmoud.codes/blog
 </div>
 
 
