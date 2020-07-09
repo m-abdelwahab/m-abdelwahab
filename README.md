@@ -57,7 +57,6 @@ Worked within an agile team on front-end features for [Blue Bus](https://bluebus
 Volunteered to teach CSEN301 (Data Structures & Algorithms) at the German University in Cairo.
 
 
-
 ## Talks 🎤
 
 ➔ **Beginner Pitfalls: My Personal Journey** [@ByteConf React](https://www.bytesized.xyz/conferences/byteconf-react-2020/) _(May 2020)_
@@ -66,49 +65,10 @@ Volunteered to teach CSEN301 (Data Structures & Algorithms) at the German Univer
 
 ➔ **Hooked: How To Build Habit Forming Products** [@EgyptJS](https://www.meetup.com/EgyptJS/events/260794616/) _(Aug 2019)_
 
+
 ## Achievements I'm proud of 💜
 
 ➔ **Google Hashcode 2020** _(Feb 2020)_ 
 
 Ranked [**2018th**](https://codingcompetitions.withgoogle.com/hashcode/certificate/round/00000000001a006c) worldwide among 10k+ teams and **1st** in the German University in Cairo Hub among 23 teams.
 
-## Uses ⚒️
-
-### Hardware 💻
-
-➔ MacBook Pro 13-inch 2017 16gb 1TB
-
-### Software 👨‍💻
-
-- VS Code
-- Theme: GitHub Dark
-- Font: JetBrains Mono
-- ESLint
-- Prettier
-- Live Server
-- Markdown All in One
-- Peacock
-- WakaTime
-- vscode-styled-components
-- Material Icon Theme
-- Auto Rename Tag
-- Bracket Pair Colorizer
-- Code Spell Checker
-
-### Browser Extensions 🌐
-
-- Tab Suspender
-- JSON Formatter
-- What Font?
-- React DevTools
-- Full Page Screenshot Capture
-- Momentum
-- VisBug
-- Dark Reader
-- Wappalyzer
-- Grammarly
-
-### Productivity Tools ⚡
-
-- Notion
-- FromScratch
