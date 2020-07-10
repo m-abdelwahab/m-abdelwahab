@@ -4,35 +4,6 @@
 
 ## Links 🔗
 
-<div style="display:flex; align-items:center">
-  
-![twitter icon](./assets/twitter.png)
-
-[@thisismahmoud_](https://twitter.com/thisismahmoud_)
-</div>
-
-<div style="display:flex; align-items:center">
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" style="margin-right:10px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
-stroke-linecap="round" stroke-linejoin="round"  c><circle cx="12" cy="12" r="10"></circle><line x1="2" y1="12" x2="22" y2="12"></line><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path></svg>
-
-https://mahmoud.codes
-</div>
-
-<div style="display:flex; align-items:center">
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" style="margin-right:10px"  viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-linkedin"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"></path><rect x="2" y="9" width="4" height="12"></rect><circle cx="4" cy="4" r="2"></circle></svg>
-
-[m-abdelwahab-dev](https://www.linkedin.com/in/m-abdelwahab-dev/)
-</div>
-
-<div style="display:flex; align-items:center">
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" style="margin-right:10px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-pen-tool"><path d="M12 19l7-7 3 3-7 7-3-3z"></path><path d="M18 13l-1.5-7.5L2 2l3.5 14.5L13 18l5-5z"></path><path d="M2 2l7.586 7.586"></path><circle cx="11" cy="11" r="2"></circle></svg>
-
-https://mahmoud.codes/blog
-</div>
-
-
-## Links 🔗
-
 - **Twitter:** [@thisismahmoud_](https://twitter.com/thisismahmoud_)
 
 - **Website:** https://mahmoud.codes
