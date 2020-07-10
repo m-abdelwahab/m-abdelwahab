@@ -5,7 +5,7 @@
 ## Links 🔗
 
 <div style="display:flex; align-items:center">
-![](./assets/twitter.png)
+![twitter icon](./assets/twitter.png)
 
 [@thisismahmoud_](https://twitter.com/thisismahmoud_)
 </div>
