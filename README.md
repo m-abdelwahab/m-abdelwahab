@@ -4,15 +4,15 @@ I'm Mahmoud and I'm a Front-end Engineer obsessed with designing and building ex
 
 ## Links 🔗
 
-**Twitter:** [@thisismahmoud_](https://twitter.com/thisismahmoud_)
+- **Twitter:** [@thisismahmoud_](https://twitter.com/thisismahmoud_)
 
-**Website:** https://mahmoud.codes
+- **Website:** https://mahmoud.codes
 
-**LinkedIn:** [m-abdelwahab-dev](https://www.linkedin.com/in/m-abdelwahab-dev/)
+- **LinkedIn:** [m-abdelwahab-dev](https://www.linkedin.com/in/m-abdelwahab-dev/)
 
-**Blog**: https://mahmoud.codes/blog
+- **Blog**: https://mahmoud.codes/blog
 
-**Uses**: https://mahmoud.codes/uses
+- **Uses**: https://mahmoud.codes/uses
 
 ## Experience 🚀
 
