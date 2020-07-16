@@ -7,7 +7,7 @@
 
 - **Twitter:** [@thisismahmoud_](https://twitter.com/thisismahmoud_)
 
-- **Website:** https://mahmoudabdelwahab.tech
+- **Website:** https://mahmoud.codes
 
 - **LinkedIn:** [m-abdelwahab-dev](https://www.linkedin.com/in/m-abdelwahab-dev/)
 
