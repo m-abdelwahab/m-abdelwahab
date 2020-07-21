@@ -49,6 +49,7 @@ Worked within an agile team on front-end features for [Blue Bus](https://bluebus
 
 Volunteered to teach CSEN301 (Data Structures & Algorithms) at the German University in Cairo.
 
+<br/>
 
 ## Talks 🎤
 
@@ -58,6 +59,7 @@ Volunteered to teach CSEN301 (Data Structures & Algorithms) at the German Univer
 
 ➔ **Hooked: How To Build Habit Forming Products** [@EgyptJS](https://www.meetup.com/EgyptJS/events/260794616/) _(Aug 2019)_
 
+<br/>
 
 ## Achievements I'm proud of 💜
 
