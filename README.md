@@ -1,8 +1,9 @@
 # Hey There! 👋
 
+<img align="right" height="270px" width="450px" alt="GIF" src="./assets/coding.svg" />
+
 ### I'm Mahmoud and I'm a Front-end Engineer obsessed with designing and building exceptional, high-quality, performant websites and applications.
 
-<img align="right" height="270px" width="450px" alt="GIF" src="./assets/coding.svg" />
 
 ## Links 🔗
 
