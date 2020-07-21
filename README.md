@@ -15,6 +15,9 @@
 
 - **Uses**: https://mahmoud.codes/uses
 
+<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/paVD7uL8uz6us/giphy.gif" />
+
+
 ## Experience 🚀
 
 ➔ **Auth0 Ambassador** [@Auth0](https://auth0.com) _(Jun 2020 - Present)_
