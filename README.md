@@ -1,4 +1,4 @@
-<div color="green">
+<kbd>
   
 # Hey There! <img src="https://user-images.githubusercontent.com/27310414/88125741-37525480-cbd0-11ea-8b1d-7bb917bb8d89.gif" alt="twitter" width="36" height="36"/>
 
@@ -69,4 +69,4 @@ Volunteered to teach CSEN301 (Data Structures & Algorithms) at the German Univer
 
 Ranked [**2018th**](https://codingcompetitions.withgoogle.com/hashcode/certificate/round/00000000001a006c) worldwide among 10k+ teams and **1st** in the German University in Cairo Hub among 23 teams.
 
-</div>
+</kbd>
