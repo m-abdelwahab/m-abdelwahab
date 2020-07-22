@@ -9,7 +9,7 @@
 
 <div align="left">
   
-<img src="https://user-images.githubusercontent.com/27310414/88126163-37068900-cbd1-11ea-97b8-1464d2502cf8.png" alt="twitter" width="24" height="24"/> [@thisismahmoud_](https://twitter.com/thisismahmoud_)
+<img src="https://user-images.githubusercontent.com/27310414/88126163-37068900-cbd1-11ea-97b8-1464d2502cf8.png" alt="twitter" width="20" height="20"/> [@thisismahmoud_](https://twitter.com/thisismahmoud_)
 
 <img src="https://user-images.githubusercontent.com/27310414/88126167-379f1f80-cbd1-11ea-8f8a-dd6b68c5ce20.png" alt="personal website" width="20" height="20"/> https://mahmoud.codes
 
