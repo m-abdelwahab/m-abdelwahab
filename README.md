@@ -1,8 +1,6 @@
 # `Hey There!` <img src="https://user-images.githubusercontent.com/27310414/88125741-37525480-cbd0-11ea-8b1d-7bb917bb8d89.gif" alt="twitter" width="36" height="36"/>
 
-<kbd>
 #### I'm Mahmoud and I'm a Front-end Engineer obsessed with designing and building exceptional, high-quality, performant websites and applications.
-</kbd>
 
 <img align="right" height="270px" width="450px" alt="GIF" src="https://mahmoud.codes/static/coding-74ebaac55a1d7aae7cabe6d05bf9a7b1.svg" />
 
