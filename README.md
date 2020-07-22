@@ -9,15 +9,15 @@
 
 <div align="left">
   
-<img src="https://user-images.githubusercontent.com/27310414/88124509-98c4f400-cbcd-11ea-9d96-4ec571ef8ce9.gif" alt="twitter" width="20" height="20"/> [@thisismahmoud_](https://twitter.com/thisismahmoud_)
+<img src="https://user-images.githubusercontent.com/27310414/88126163-37068900-cbd1-11ea-97b8-1464d2502cf8.png" alt="twitter" width="20" height="20"/> [@thisismahmoud_](https://twitter.com/thisismahmoud_)
 
-<img src="https://user-images.githubusercontent.com/27310414/88124508-982c5d80-cbcd-11ea-8977-16ead6f3e70c.gif" alt="twitter" width="20" height="20"/> https://mahmoud.codes
+<img src="https://user-images.githubusercontent.com/27310414/88126167-379f1f80-cbd1-11ea-8f8a-dd6b68c5ce20.png" alt="personal website" width="20" height="20"/> https://mahmoud.codes
 
-<img src="https://user-images.githubusercontent.com/27310414/88124506-9793c700-cbcd-11ea-91df-3a49a58042ab.gif" alt="twitter" width="20" height="20"/>  [m-abdelwahab-dev](https://www.linkedin.com/in/m-abdelwahab-dev/)
+<img src="https://user-images.githubusercontent.com/27310414/88126168-3837b600-cbd1-11ea-8099-ad1cae3e2b7e.png" alt="linkedin" width="20" height="20"/>  [m-abdelwahab-dev](https://www.linkedin.com/in/m-abdelwahab-dev/)
 
-<img src="https://user-images.githubusercontent.com/27310414/88124503-96fb3080-cbcd-11ea-9737-5f85820b9f8e.gif" alt="twitter" width="20" height="20"/>  https://mahmoud.codes/blog
+<img src="https://user-images.githubusercontent.com/27310414/88126165-379f1f80-cbd1-11ea-92d8-4802eaf8f198.png" alt="blog" width="20" height="20"/>  https://mahmoud.codes/blog
 
-<img src="https://user-images.githubusercontent.com/27310414/88124575-bbefa380-cbcd-11ea-80ba-6e2896669c1f.gif" alt="twitter" width="20" height="20"/> https://mahmoud.codes/uses
+<img src="https://user-images.githubusercontent.com/27310414/88126161-35d55c00-cbd1-11ea-8304-6958d0691ec4.png" alt="tools used" width="20" height="20"/> https://mahmoud.codes/uses
 
 </div>
 
