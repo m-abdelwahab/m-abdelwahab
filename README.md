@@ -26,7 +26,7 @@
 
 ➔ **Auth0 Ambassador** [@Auth0](https://auth0.com) _(Jun 2020 - Present)_
 
-Working with Auth0's DevRel team to write content about security, authentication and Auth0
+Working with Auth0's DevRel team to create content about security, authentication and Auth0
 
 ➔ **Learner Advocate** [@Egghead.io](https://egghead.io) _(May2020 - Present)_
 
