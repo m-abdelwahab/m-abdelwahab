@@ -2,7 +2,7 @@
 
 #### I'm Mahmoud and I'm a Front-end Engineer obsessed with designing and building exceptional, high-quality, performant websites and applications.
 
-<img align="right" height="270px" width="450px" alt="GIF" src="https://mahmoud.codes/static/coding-74ebaac55a1d7aae7cabe6d05bf9a7b1.svg" />
+<img align="right" height="300px" width="500px" alt="GIF" src="https://mahmoud.codes/static/coding-74ebaac55a1d7aae7cabe6d05bf9a7b1.svg" />
 
 <br/>
 <br/>
