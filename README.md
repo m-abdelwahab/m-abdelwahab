@@ -1,4 +1,4 @@
-# Hey There! <img src="https://user-images.githubusercontent.com/27310414/88124509-98c4f400-cbcd-11ea-9d96-4ec571ef8ce9.gif" alt="twitter" width="20" height="20"/>
+# Hey There! <img src="https://user-images.githubusercontent.com/27310414/88125741-37525480-cbd0-11ea-8b1d-7bb917bb8d89.gif" alt="twitter" width="36" height="36"/>
 
 
 ### I'm Mahmoud and I'm a Front-end Engineer obsessed with designing and building exceptional, high-quality, performant websites and applications.
@@ -23,7 +23,7 @@
 
 <br/>
 
-## Experience <img src="https://user-images.githubusercontent.com/27310414/88125498-b4c99500-cbcf-11ea-9766-628cdef39daa.gif" alt="twitter" width="20" height="20"/> 
+## Experience <img src="https://user-images.githubusercontent.com/27310414/88125498-b4c99500-cbcf-11ea-9766-628cdef39daa.gif" alt="twitter" width="36" height="36"/> 
 
 ➔ **Auth0 Ambassador** [@Auth0](https://auth0.com) _(Jun 2020 - Present)_
 
@@ -51,7 +51,7 @@ Volunteered to teach CSEN301 (Data Structures & Algorithms) at the German Univer
 
 <br/>
 
-## Talks  <img src="https://user-images.githubusercontent.com/27310414/88125684-18ec5900-cbd0-11ea-82f0-709031e56a03.giff" alt="twitter" width="20" height="20"/>   
+## Talks  <img src="https://user-images.githubusercontent.com/27310414/88125684-18ec5900-cbd0-11ea-82f0-709031e56a03.giff" alt="twitter" width="36" height="36"/>   
 
 ➔ **Beginner Pitfalls: My Personal Journey** [@ByteConf React](https://www.bytesized.xyz/conferences/byteconf-react-2020/) _(May 2020)_
 
@@ -61,7 +61,7 @@ Volunteered to teach CSEN301 (Data Structures & Algorithms) at the German Univer
 
 <br/>
 
-## Achievements I'm proud of <img src="https://user-images.githubusercontent.com/27310414/88125586-e0e51600-cbcf-11ea-9202-14cdb679dc05.gif" alt="twitter" width="20" height="20"/>  
+## Achievements I'm proud of <img src="https://user-images.githubusercontent.com/27310414/88125586-e0e51600-cbcf-11ea-9202-14cdb679dc05.gif" alt="twitter" width="36" height="36"/>  
 
 ➔ **Google Hashcode 2020** _(Feb 2020)_ 
 
