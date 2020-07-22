@@ -9,7 +9,7 @@
 
 <div align="left">
   
-- **Twitter:** [@thisismahmoud_](https://twitter.com/thisismahmoud_)
+- <img src="https://user-images.githubusercontent.com/27310414/88124509-98c4f400-cbcd-11ea-9d96-4ec571ef8ce9.gif" alt="twitter" width="48" height="48"/> [@thisismahmoud_](https://twitter.com/thisismahmoud_)
 
 - **Website:** https://mahmoud.codes
 
