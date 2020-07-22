@@ -9,15 +9,15 @@
 
 <div align="left">
 
-<img src="https://user-images.githubusercontent.com/27310414/88126696-6bc71000-cbd2-11ea-8726-ff4301da3c55.png" alt="personal website" width="20" height="20"/> mahmoud.codes
+<img src="https://user-images.githubusercontent.com/27310414/88126696-6bc71000-cbd2-11ea-8726-ff4301da3c55.png" alt="personal website" width="20" height="20"/> [mahmoud.codes](https://mahmoud.codes)
 
 <img src="https://user-images.githubusercontent.com/27310414/88126694-6b2e7980-cbd2-11ea-88d5-96045329b3d6.png" alt="twitter" width="20" height="20"/> [@thisismahmoud_](https://twitter.com/thisismahmoud_)
 
 <img src="https://user-images.githubusercontent.com/27310414/88126699-6c5fa680-cbd2-11ea-94ef-0385cf08206d.png" alt="linkedin" width="20" height="20"/>  [m-abdelwahab-dev](https://www.linkedin.com/in/m-abdelwahab-dev/)
 
-<img src="https://user-images.githubusercontent.com/27310414/88126702-6c5fa680-cbd2-11ea-860f-5acacd08316c.png" alt="blog" width="20" height="20"/>  mahmoud.codes/blog
+<img src="https://user-images.githubusercontent.com/27310414/88126702-6c5fa680-cbd2-11ea-860f-5acacd08316c.png" alt="blog" width="20" height="20"/>  [mahmoud.codes/blog](https://mahmoud.codes/blog)
 
-<img src="https://user-images.githubusercontent.com/27310414/88126703-6cf83d00-cbd2-11ea-81a1-c632be2e9edc.png" alt="tools used" width="20" height="20"/> mahmoud.codes/uses
+<img src="https://user-images.githubusercontent.com/27310414/88126703-6cf83d00-cbd2-11ea-81a1-c632be2e9edc.png" alt="tools used" width="20" height="20"/> [mahmoud.codes/uses](https://mahmoud.codes/uses)
 
 </div>
 
