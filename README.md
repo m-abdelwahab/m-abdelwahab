@@ -51,7 +51,7 @@ Volunteered to teach CSEN301 (Data Structures & Algorithms) at the German Univer
 
 <br/>
 
-## Talks  <img src="https://user-images.githubusercontent.com/27310414/88125684-18ec5900-cbd0-11ea-82f0-709031e56a03.gif" alt="twitter" width="36" height="36"/>   
+## ```js Talks```  <img src="https://user-images.githubusercontent.com/27310414/88125684-18ec5900-cbd0-11ea-82f0-709031e56a03.gif" alt="twitter" width="36" height="36"/>   
 
 ➔ **Beginner Pitfalls: My Personal Journey** [@ByteConf React](https://www.bytesized.xyz/conferences/byteconf-react-2020/) _(May 2020)_
 
