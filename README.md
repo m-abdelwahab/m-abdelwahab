@@ -1,6 +1,6 @@
 ## `Hey There!` <img src="https://user-images.githubusercontent.com/27310414/88125741-37525480-cbd0-11ea-8b1d-7bb917bb8d89.gif" alt="twitter" width="36" height="36"/>
 
-#### I'm Mahmoud and I'm a Front-end Engineer obsessed with designing and building exceptional, high-quality, performant websites and applications.
+#### I'm Mahmoud and I'm a Software Engineer obsessed with building and designing exceptional, high-quality, performant websites and applications. I also enjoy creating videos and educational content.
 
 <div>
 
@@ -19,6 +19,8 @@
 <br/>
 
 ## `Experience` <img src="https://user-images.githubusercontent.com/27310414/88125498-b4c99500-cbcf-11ea-9766-628cdef39daa.gif" alt="twitter" width="36" height="36"/> 
+
+➔ **Developer Advocate** [@Prisma](https://prisma.io) _(Nov 2020 - Present)_
 
 ➔ **Auth0 Ambassador** [@Auth0](https://auth0.com) _(Jun 2020 - Present)_
 
