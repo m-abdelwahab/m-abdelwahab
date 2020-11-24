@@ -21,6 +21,7 @@
 ## `Experience` <img src="https://user-images.githubusercontent.com/27310414/88125498-b4c99500-cbcf-11ea-9766-628cdef39daa.gif" alt="twitter" width="36" height="36"/> 
 
 ➔ **Developer Advocate** [@Prisma](https://prisma.io) _(Nov 2020 - Present)_
+Responsible for building awareness and love for Prisma in the Developer Community. I build demos and create educational content showing how to integrate Prisma with different tools and services.
 
 ➔ **Auth0 Ambassador** [@Auth0](https://auth0.com) _(Jun 2020 - Present)_
 
