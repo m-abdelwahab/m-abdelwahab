@@ -28,7 +28,7 @@ Responsible for building awareness and love for Prisma in the Developer Communit
 
 Working with Auth0's DevRel team to create content about security, authentication and Auth0
 
-➔ **Learner Advocate** [@Egghead.io](https://egghead.io) _(May2020 - Present)_
+➔ **Instructor** [@Egghead.io](https://egghead.io) _(May2020 - Present)_
 
 Responsible for taking notes for courses, reviewing them and attending workshops on Egghead
 
