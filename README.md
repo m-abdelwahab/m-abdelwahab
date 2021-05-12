@@ -1,7 +1,5 @@
 ## `Hey There!`
 
-![hero image](https://user-images.githubusercontent.com/27310414/103872618-5473d480-50d7-11eb-9183-585c6f0637e2.png)
-
 #### I'm Mahmoud and I'm a Developer, writer, and maker. Obsessed with & creating exceptional, high-quality, content and applications. Currently a Developer Advocate at prisma.io
 
 I'm also an instructor at [Egghead.io](https://egghead.io/instructors/mahmoud-abdelwahab) , where I create instructional screencasts on various Front-end technologies.
