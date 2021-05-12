@@ -9,22 +9,10 @@ I create videos on my [YouTube channel](https://www.youtube.com/MahmoudAbdelwaha
 I enjoy reading and writing about a variety of topics like software development, design and tech careers. I'm also a big advocate for learning in public.
 
 Twitter: [@thisismahmoud_](https://twitter.com/thisismahmoud_)
+
 Blog: [mahmoud.codes/blog](https://mahmoud.codes/blog)
 
 <br/>
 
 
-<br/>
-
-## `Talks` 
-
-➔ **Securing React Apps using Auth0** [@Egghead](https://egghead.io/lessons/egghead-authenticating-react-apps-using-auth0) _(Oct 2020)_
-
-➔ **Beginner Pitfalls: My Personal Journey** [@ByteConf React](https://www.bytesized.xyz/conferences/byteconf-react-2020/) _(May 2020)_
-
-➔ **GatsbyJS Under The Hood: What Makes It Blazing Fast** [@EgyptJS](https://www.meetup.com/EgyptJS/events/269752047/) _(April 2020)_
-
-➔ **Hooked: How To Build Habit Forming Products** [@EgyptJS](https://www.meetup.com/EgyptJS/events/260794616/) _(Aug 2019)_
-
-<br/>
 
